@@ -1,0 +1,4 @@
+nu-html-checker -f stylish *.html
+nu-html-checker -f jason *.html
+
+autoprefixer -o style.prefixed.css

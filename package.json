@@ -1,0 +1,27 @@
+{
+  "name": "learning-git-2-kopia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebelTp/zad-4.4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hebelTp/zad-4.4/issues"
+  },
+  "homepage": "https://github.com/hebelTp/zad-4.4#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "nu-html-checker": "^0.1.0"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0"
+  }
+}
