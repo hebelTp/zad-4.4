@@ -18,10 +18,9 @@
   },
   "homepage": "https://github.com/hebelTp/zad-4.4#readme",
   "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.26.7",
     "nu-html-checker": "^0.1.0"
   },
-  "dependencies": {
-    "autoprefixer-cli": "^1.0.0"
-  }
+  "dependencies": {}
 }
